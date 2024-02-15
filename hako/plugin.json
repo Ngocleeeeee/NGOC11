@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "miotranslatorteam",
+    "author": "vBook",
+    "version": 10,
+    "source": "https://miotranslatorteam.wordpress.com",
+    "regexp": "(www.)?(https://miotranslatorteam.wordpress.com)/[^/]+/[^/]+/?$",
+    "description": "Đọc truyện trên trang Hako",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
